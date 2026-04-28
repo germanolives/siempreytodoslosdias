@@ -12,7 +12,7 @@ export function App() {
         </p>
 
         <h1 className="text-balance text-4xl font-semibold leading-tight sm:text-6xl">
-          Desarrollo web en construccion
+          Desarrollo web en construcción
         </h1>
 
         <p className="mt-5 max-w-xl text-pretty text-base text-slate-300 sm:text-lg">
